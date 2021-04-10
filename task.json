@@ -7,7 +7,7 @@
 	"yes": [],
 	"no": [],
 	"define": {
-		"place": "一栋",
+		"place": ["一栋", "二栋"],
 		"startDate": "2021 - 04 - 03 16: 43: 44",
 		"endDate": "2021 - 04 - 04 16: 43: 44",
 		"name": "hwdefine",
