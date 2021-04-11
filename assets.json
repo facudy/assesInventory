@@ -1,0 +1,20 @@
+[{
+	"admissionDate": "2021-04-3 16:43:44",
+	"assetsName": "hw",
+	"assetsNumber": "1",
+	"auditStatus": "正在进行",
+	"auditor": "hw",
+	"buyDate": "2021-04-3 16:43:44",
+	"currentSituation": "正在进行",
+	"db_place": "2栋",
+	"evidenceId": "12",
+	"financeName": "11",
+	"inventoryDate": "2021-04-3 16:43:44",
+	"inventoryLocation": "qws",
+	"model": "22",
+	"number": "3",
+	"place": "22",
+	"spec": "34",
+	"totalPrice": "12345",
+	"username": "ws"
+}]
